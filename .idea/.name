@@ -1,1 +1,0 @@
-first django project
