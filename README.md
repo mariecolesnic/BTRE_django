@@ -10,4 +10,5 @@ has some distinctions:
 - fixed some minor bugs in text
 - filled links in navbars
 - inserted real text in some places (I just wanted it to look more natural)
-Overall, I love this project. This wasn't easy for novice as me but it was very interesting.
+
+Have fun with it!
